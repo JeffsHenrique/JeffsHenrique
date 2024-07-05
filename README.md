@@ -6,10 +6,13 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG14b204NGltY3EzOTUxdTgxZmR2dzh2eHZlaWc2ZHg1azh6aGo4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsZwsU65E0qcok8/giphy.gif" alt="Pixel art orange cat gif" width="140px" align="center">
 </h1>
 
+
 <div align="center">
     <h2>I'm Jeff! <img src="./assets/link.gif" alt="link pixel art" width="40px" align="center"></h2>
     <p><i>Recently found my way to the developing world!</i> 😄</p>
+    <p><i>Visit my professional website</i> → <a href="https://jeffshenrique.vercel.app/">JeffsHenrique</a> </p>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffshenrique&show_icons=true&theme=tokyonight)
 </br>
 
 <!-- ========== STACK ========== -->
@@ -19,7 +22,7 @@
 </h2>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI4czBuOHByOTczbjc0M3dmZnZzemd1NHJ2MXRzYm5ubm1kdXgwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" width="300px">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI4czBuOHByOTczbjc0M3dmZnZzemd1NHJ2MXRzYm5ubm1kdXgwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" width="180px">
     <table>
         <tr>
             <td align="center">
